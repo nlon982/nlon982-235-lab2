@@ -1,3 +1,3 @@
 # nlon982-235-lab2
 
-This is me editing this file, WOOH.
+Hi, my name is Nathan. I am a second year student at the University of Auckland.
